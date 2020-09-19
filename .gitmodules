@@ -1,0 +1,3 @@
+[submodule "Blink"]
+	path = Blink
+	url = https://github.com/DarvinX/Eye-Blink-Detection
