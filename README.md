@@ -1,2 +1,2 @@
-# darvinx.github.io
-projects that I want to host
+# Tamal Hansda
+webpage for all my details
